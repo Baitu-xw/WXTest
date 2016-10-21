@@ -1,0 +1,200 @@
+
+ 
+记录时间：2015-12-01 16:00:07,461 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: KlLrSA0808sns4 ]
+ 
+
+ 
+记录时间：2015-12-01 16:07:21,200 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: tCGjYa0243ns18 ]
+ 
+
+ 
+记录时间：2015-12-01 16:18:00,323 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: MJkWNa0882ns67 ]
+ 
+
+ 
+记录时间：2015-12-01 17:10:47,668 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: rmNaCA0050ns36 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:03,070 
+线程ID:[5] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: wSQBwa0125ns50 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,022 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: lIwoea0126ns22 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,173 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: OPRKHa0135ns69 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,175 
+线程ID:[5] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: x3S6LA0134ns18 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,175 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: iuPUnA0134sns4 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,178 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: 5WeW50135ns15 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:12,323 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: caGf.a0135ns19 ]
+ 
+
+ 
+记录时间：2015-12-01 17:12:33,620 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: dD0156sns4 ]
+ 
+
+ 
+记录时间：2015-12-01 17:15:22,429 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: eGJMua0325ns13 ]
+ 
+
+ 
+记录时间：2015-12-01 17:19:40,326 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: Ocik1a0583ns48 ]
+ 
+
+ 
+记录时间：2015-12-01 17:19:40,794 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: bgpj7a0583ns46 ]
+ 
+
+ 
+记录时间：2015-12-01 17:21:11,296 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: asgfvA0674ns27 ]
+ 
+
+ 
+记录时间：2015-12-01 17:27:37,189 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: pHoiza0059ns51 ]
+ 
+
+ 
+记录时间：2015-12-01 17:52:26,486 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: oSm3LA0549ns42 ]
+ 
+
+ 
+记录时间：2015-12-01 17:55:14,300 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: JxRIeA0717ns35 ]
+ 
+
+ 
+记录时间：2015-12-01 18:03:47,380 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: mFnnBA0230ns63 ]
+ 
+
+ 
+记录时间：2015-12-01 18:08:00,875 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: jwrdCa0483ns17 ]
+ 
+
+ 
+记录时间：2015-12-01 18:09:46,293 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: 2MJBLA0589ns35 ]
+ 
+
+ 
+记录时间：2015-12-01 18:14:39,756 
+线程ID:[45] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: pUssxa0882ns20 ]
+ 
+
+ 
+记录时间：2015-12-01 18:23:20,769 
+线程ID:[76] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：41008，说明：missing code, hints: [ req_id: luHZaa0403ns61 ]
+ 
+
+ 
+记录时间：2015-12-01 18:23:22,571 
+线程ID:[70] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：41008，说明：missing code, hints: [ req_id: 7YklYa0405ns23 ]
+ 

@@ -1,0 +1,24 @@
+
+ 
+记录时间：2015-11-17 10:41:46,643 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：-1，说明：system error, hints: [ req_id: tfi0KA0107ns69 ]
+ 
+
+ 
+记录时间：2015-11-17 10:42:00,698 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：-1，说明：system error, hints: [ req_id: XpDtPA0121ns60 ]
+ 
+
+ 
+记录时间：2015-11-17 15:05:50,920 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: .N8_pa0953ns25 ]
+ 

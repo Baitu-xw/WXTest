@@ -1,0 +1,32 @@
+
+ 
+记录时间：2015-11-26 11:26:33,880 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：41008，说明：missing code, hints: [ req_id: USk390394ns22 ]
+ 
+
+ 
+记录时间：2015-11-26 11:26:33,880 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：41008，说明：missing code, hints: [ req_id: eC5IPa0394ns25 ]
+ 
+
+ 
+记录时间：2015-11-26 11:26:36,555 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: T0397ns49 ]
+ 
+
+ 
+记录时间：2015-11-26 11:26:50,636 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40029，说明：invalid code, hints: [ req_id: wescia0411ns58 ]
+ 

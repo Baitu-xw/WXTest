@@ -1,0 +1,8 @@
+
+ 
+记录时间：2015-12-01 16:19:34,452 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：41008，说明：missing code, hints: [ req_id: bEB0976sns4 ]
+ 

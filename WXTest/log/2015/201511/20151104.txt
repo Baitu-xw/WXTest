@@ -1,0 +1,8 @@
+
+ 
+记录时间：2015-11-04 19:57:47,363 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：WeixinToken 配置项没有配置！
+ 

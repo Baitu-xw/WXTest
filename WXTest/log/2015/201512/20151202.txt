@@ -1,0 +1,16 @@
+
+ 
+记录时间：2015-12-02 11:00:20,663 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40003，说明：invalid openid hint: [Pjblca0221vr19]
+ 
+
+ 
+记录时间：2015-12-02 11:03:28,061 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：微信请求发生错误！错误代码：40003，说明：invalid openid hint: [skd240408vr21]
+ 

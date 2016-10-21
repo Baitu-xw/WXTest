@@ -1,0 +1,8 @@
+
+ 
+记录时间：2015-12-04 18:57:38,559 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：System.String property: [(null)] - 
+错误描述：https://api.weixin.qq.com/cgi-bin/user/info?access_token=szdoYXo3AvyhV78cpbmzPEZ3yU7SeMeNN11tnH-hDsPrwuxzt00xK-vMbiLFchJJk7djOU7kTKAEYI9NtMVlmJSXB5yummmD2RADuiM6A6YSNYjAAAHCN&openid=orN7bsyPHG5RfteiazRRPXbYgYnc&lang=zh_CN   读取链接网页内容出错。
+ 
